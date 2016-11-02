@@ -8,7 +8,7 @@ public class pset1 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_pset1);
+        setContentView(R.layout.landscapeview);
     }
 }
 
