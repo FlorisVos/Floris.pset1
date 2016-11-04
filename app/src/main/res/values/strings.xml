@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Floris-pset1</string>
+    <string name="desc">potatohead</string>
+    <string name="ears">ears</string>
+    <string name="mustache">mustache</string>
+    <string name="hat">hat</string>
+    <string name="mouth">mouth</string>
+    <string name="eyes">eyes</string>
+    <string name="shoes">shoes</string>
+    <string name="eyebrows">eyebrows</string>
+    <string name="glasses">glasses</string>
+    <string name="nose">nose</string>
+    <string name="arms">arms</string>
+
+
 </resources>
